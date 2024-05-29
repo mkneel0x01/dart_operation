@@ -31,6 +31,9 @@ void main() {
 
   print("University name is $versityName and location is $address");*/
 
+  bool isMarried = true;
+  print("Married Status: $isMarried");
+
   // using \n and \t
   // \n for new line
   // \t for new tab
